@@ -1,0 +1,13 @@
+# 海妖交易所，钱包
+
+DOMAIN-SUFFIX,kraken.com
+DOMAIN,kraken.zendesk.com
+DOMAIN,krakenpro.onl
+DOMAIN,kraken.pxf.io
+# Kraken 依赖 SDK
+DOMAIN-SUFFIX,sardine.ai
+DOMAIN-SUFFIX,smooch.io
+DOMAIN-SUFFIX,branch.io
+DOMAIN,ota.phraseapp.com
+DOMAIN,sdk.iad-05.braze.com
+DOMAIN-SUFFIX,launchdarkly.com
