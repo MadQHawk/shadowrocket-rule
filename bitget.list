@@ -1,0 +1,15 @@
+# bitget, USA、CN等限制使用
+
+DOMAIN-SUFFIX,bitget.com
+DOMAIN-SUFFIX,bitgetapp.com
+DOMAIN-SUFFIX,bitgetapps.com
+DOMAIN-SUFFIX,bitgetimg.com
+DOMAIN-SUFFIX,bgportable.com
+DOMAIN-SUFFIX,bgstatic.com
+DOMAIN-SUFFIX,gdrichem.com
+DOMAIN-SUFFIX,beeeye.xyz
+DOMAIN-SUFFIX,engagelab.cc
+DOMAIN,appapi.gm816.com
+DOMAIN,img.gurenla.com
+DOMAIN-SUFFIX,bitkeep.com
+DOMAIN-KEYWORD,bitget
